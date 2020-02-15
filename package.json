@@ -1,0 +1,19 @@
+{
+  "name": "emojify-now",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "now dev",
+    "deploy": "now --prod"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "now": "^17.0.3"
+  },
+  "dependencies": {
+    "emojify-string": "1.0.0"
+  }
+}
