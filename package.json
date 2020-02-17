@@ -14,6 +14,6 @@
     "now": "^17.0.3"
   },
   "dependencies": {
-    "emojify-string": "1.0.0"
+    "emojify-string": "1.1.0"
   }
 }
